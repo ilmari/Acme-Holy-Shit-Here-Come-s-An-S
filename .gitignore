@@ -1,0 +1,13 @@
+blib/
+_build_params
+*.swp
+*~
+.#*
+*.tar.gz
+META.*
+MYMETA.*
+MANIFEST
+MANIFEST.bak
+^Build$
+Acme-Holy-Shit-Here-Come-s-An-S-*
+nytprof*

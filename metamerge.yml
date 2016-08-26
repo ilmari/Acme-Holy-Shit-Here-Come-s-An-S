@@ -1,0 +1,7 @@
+resources:
+  repository:
+    type: git
+    url: https://github.com/ilmari/Acme-Holy-Shit-Here-Come-s-An-S.git
+    web: https://github.com/ilmari/Acme-Holy-Shit-Here-Come-s-An-S/
+  bugtracker:
+    web: https://github.com/ilmari/Acme-Holy-Shit-Here-Come-s-An-S/issues
