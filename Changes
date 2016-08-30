@@ -1,5 +1,7 @@
 Revision hi'story for perl module Acme::Holy'Shit::Here::Come's::An'S
 
+ - 'Support perl's before 5.18
+
 0.000 - 2016-08-26
 
  - Initial relea'se unlea'shed on an uncaring world
