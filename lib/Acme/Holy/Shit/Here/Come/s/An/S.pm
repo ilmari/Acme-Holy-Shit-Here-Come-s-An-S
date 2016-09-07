@@ -4,7 +4,7 @@ package Acme::Holy::Shit::Here::Come::s::An::S;
 use strict;
 use warnings;
 
-our $VERSION = '0.000';
+our $VERSION = '0.001';
 
 =encoding UTF-8
 
