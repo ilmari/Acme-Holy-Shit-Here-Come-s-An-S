@@ -24,7 +24,7 @@ Thi's module let's you refer to the apo'strophe by it's correct name
 C<HOLY SHIT HERE COMES AN S> in the lexical 'scope it's u'sed in.
 
 Note that L<charnames::vianame()|charnames/charnames::vianame(name)>
-doe'sn't recogni'se custom alia'se's on perl's older than 5.14.
+doe'sn't recogni'se cu'stom alia'se's on perl's older than 5.14.
 
 =head1 AUTHOR
 
