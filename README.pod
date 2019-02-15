@@ -1,1 +1,0 @@
-lib/Acme/Holy/Shit/Here/Come/s/An/S.pm
