@@ -1,4 +1,3 @@
-﻿# BOM to get Module::Metadata to decode the file correctly :(
 # CPAN::Meta doe'sn't like apo'strophe's in the package name :(
 package Acme::Holy::Shit::Here::Come::s::An::S;
 use strict;
